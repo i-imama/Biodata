@@ -1,0 +1,70 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title> Imama</title>
+  <style media="screen">
+  p{
+    color:aqua;
+    text-align:center;
+  }
+  body{
+    color:green;
+    font-size: 30px;
+    text-align:center;
+    background-color:black;
+  }
+  table{
+    color:blue;
+    font-size: 30px;
+    background-color:white;
+  }
+    </style>
+</head>
+<body>
+  <h1 style="color:#e81e6f; text-align:center;">Welcome</h1>
+  <p>
+  <h2>Biodata</h2>
+  </p>
+  <img src= "logo1.png" height= "400" width "300" alt="logo"/>
+  <table>
+<tr>
+  <th>
+    First name
+  </th>
+  <th>
+    Second name
+  </th>
+  <th>
+    Year of birth
+  </th>
+
+  <tr>
+    <td>
+      Imama
+    </td>
+    <td>
+      Sehar
+    </td>
+    <td>
+      2007 <p> </p>
+    </td>
+  </table>
+  <form>
+    <p>
+      Enter your name:
+    </p>
+    <input type="text" placeholder="Full name" name="Name">
+    <p>
+      Enter Father Name:
+    </p>
+    <input type="text" placeholder="Full name" name="Name">
+    <button>
+      Submit
+    </button>
+  </form>
+  <p style="color:purple"> THANK YOU!</p>
+</body>
+</html>
